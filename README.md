@@ -13,4 +13,10 @@ This data analysis project is based on analyzing Palmora Group company's HR data
 ### Data Sources
 The primary source of data used is Palmora Group HR data and it is an open source data that can be freely downloaded on Incubator Hub LMS.
 
+### Features
+  - Visual chart representing gender distribution in the organization.
+  - Insights on ratings based on gender.
+  - Allocate annual bonus pay to employees based on performance rating.
+  - 
+
 
