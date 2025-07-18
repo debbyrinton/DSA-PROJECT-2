@@ -26,6 +26,9 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
    - Lagos Region has no pay gap percentage by gender.
    - Male employees has the highest overall gender distribution
 
+### Dashboard Visuals
+
+
 ### Tools Used
    - Power BI Desktop
    - DAX for calculated measures
