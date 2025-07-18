@@ -17,6 +17,8 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
   - Visual chart representing gender distribution in the organization.
   - Insights on ratings based on gender.
   - Allocate annual bonus pay to employees based on performance rating.
-  - 
 
+###  Contents
+  - Palmora Group HR dashboard.pbix' - The Power BI report file.
+    
 
