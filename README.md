@@ -33,6 +33,6 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
    - Excel data source (simulate)
 
 ### Dashboard Visuals
-[Alt Text] (
+[Alt Text] (https://github.com/debbyrinton/DSA-PROJECT-2/blob/main/2025-07-17%20(1).png?raw=true
 
   
