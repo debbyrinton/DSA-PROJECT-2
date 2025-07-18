@@ -20,6 +20,7 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
 
 ###  Contents
   - Palmora Group HR dashboard.pbix' - The Power BI report file.
+[Download full power BI Report (PDF)] (https://github.com/debbyrinton/DSA-PROJECT-2/upload/main#:~:text=Palmora%20Group%20HR%20analysis.pbix
 
 ### Insights
    - Female gender is the highest paid employees based on the category of the pay band
