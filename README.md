@@ -25,5 +25,11 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
    - Female gender is the highest paid employees based on the category of the pay band
    - Lagos Region has no pay gap percentage by gender.
    - Male employees has the highest overall gender distribution
+
+### Tools Used
+   - Power BI Desktop
+   - DAX for calculated measures
+   - Power Query for data transformation
+   - Excel data source (simulate) 
     
 
