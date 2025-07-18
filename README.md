@@ -35,5 +35,5 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
 ### Dashboard Visuals
 ### Palmora Group HR Analysis
 [Palmora Group HR Analysis] (./visuals/palmora-group hr analysis overview. png
-    2025-07-17 (1).png
+    2025-07-17 (1).pnghttps://github.com/debbyrinton/DSA-PROJECT-2/commit/34e781b603ba44ad94b75fa98748d3dc68fe32bb#diff-6f8b21b8cb27c845077dc8eeceb3e61024c9bb5dff3490fbe37399b5c85bcdd5
 
