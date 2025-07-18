@@ -35,4 +35,7 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
 ### Dashboard Visuals
 [Alt Text] (https://github.com/debbyrinton/DSA-PROJECT-2/blob/main/2025-07-17%20(1).png?raw=true
 
+### Over all gender distribution 
+[Alt Text] (
+
   
