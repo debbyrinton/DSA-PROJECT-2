@@ -43,3 +43,6 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
 
 ### Gender distribution by department and Region
 [Alt Text] (https://github.com/debbyrinton/DSA-PROJECT-2/blob/main/2025-07-17.png?raw=true
+
+### Pay Gap percentage by gender
+[Alt Text] (https://github.com/debbyrinton/DSA-PROJECT-2/blob/main/2025-07-18.png?raw=true
