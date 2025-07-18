@@ -40,3 +40,6 @@ The primary source of data used is Palmora Group HR data and it is an open sourc
 
 ### Pay distribution of employees group by band
 [Alt Text] (https://github.com/debbyrinton/DSA-PROJECT-2/blob/main/2025-07-17%20(3).png?raw=true
+
+### Gender distribution by department and Region
+[Alt Text] (https://github.com/debbyrinton/DSA-PROJECT-2/blob/main/2025-07-17.png?raw=true
